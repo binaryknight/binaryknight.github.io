@@ -23,8 +23,8 @@ email: binaryknightcontact@gmail.com
 description: >- # this means to ignore newlines until "baseurl: "Thoughts, experiences and experiments in applied mathematics, the daily practice of datascience and the like."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:binaryknighttweets
-github_username:binaryknight
+twitter_username: binaryknighttweets
+github_username: binaryknight
 
 # Build settings
 theme: minima
