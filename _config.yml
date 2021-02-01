@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Binaryknight's Corner for Applied Math
+title: Binaryknight's Corner
 email: binaryknightcontact@gmail.com
-description: "Thoughts, experiences and experiments in applied math, the daily practice of datascience and a bit more"
+description: "Thoughts, experiences and experiments in applied math, the daily practice of datascience and a little more"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: binaryknighttw1
 github_username: binaryknight
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
