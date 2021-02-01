@@ -21,7 +21,7 @@
 title: Binaryknight's Corner
 email: binaryknightcontact@gmail.com
 description: "Thoughts and experiments in applied math, AI, data science, engineering and project management"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://binaryknight.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: binaryknighttw1
 github_username: binaryknight
