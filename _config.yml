@@ -27,7 +27,7 @@ twitter_username: binaryknighttw1
 github_username: binaryknight
 
 # Build settings
-remote_theme: pages-themes/tactile
+theme: pages-themes/tactile
 plugins:
   - jekyll-feed
 
