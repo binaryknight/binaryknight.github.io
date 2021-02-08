@@ -1,0 +1,9 @@
+#+BEGIN_EXPORT html
+---
+layout: home
+title: Binaryknight's Corner
+excerpt: Thoughts and Experiments in applied math, AI, software engineering and project management
+---
+#+END_EXPORT
+
++ This is a test

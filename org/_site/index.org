@@ -1,8 +1,8 @@
 #+BEGIN_EXPORT html
 ---
-layout: home
-title: Binaryknight's Corner
-excerpt: Thoughts and Experiments in applied math, AI, software engineering and project management
+layout: page
+title: Test page
+excerpt: Test page
 ---
 #+END_EXPORT
 
