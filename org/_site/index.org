@@ -1,9 +1,0 @@
-#+BEGIN_EXPORT html
----
-layout: page
-title: Test page
-excerpt: Test page
----
-#+END_EXPORT
-
-+ This is a test
