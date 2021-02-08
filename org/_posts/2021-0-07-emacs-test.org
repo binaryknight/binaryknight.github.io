@@ -1,0 +1,9 @@
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "Using org-mode with Jekyll Test"
+excerpt: Testing Setup
+---
+#+END_EXPORT
+
+* Test
